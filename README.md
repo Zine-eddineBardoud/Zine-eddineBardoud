@@ -1,22 +1,14 @@
 <img src="banner.png" alt="" width='100%'>
-
-<br>
-<br>
 <hr>
-
-
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="hi" width="35">, I'm Zine-eddine Bardoud</h1>
 <h4 align="center">Aspiring full-stack dev with a passion for coding. Constantly learning and building projects to expand my skillset. Excited for future opportunities.</h4>
-
 <img src="greeting.gif" width="300px" align="right" alt="">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/www.linkedin.com/in/zine-eddinebardoud" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zine-eddinebardoud" height="30" width="40" />
     </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
